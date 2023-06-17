@@ -1,0 +1,8 @@
+IP privada y la publica
+
+Direc. inet:10.0.2.15 
+
+Dirección MAC
+08:00:27:8d:60:ca
+
+Es diferente a la IP pública y privada de nuestra máquina host?
